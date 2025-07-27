@@ -1,0 +1,156 @@
+# depslib dependency file v1.0
+1750444901 source:d:\el braian\cosas mias\estudio\tup\programacion\tp\dados\main.cpp
+	<iostream>
+	"juego.h"
+	"interfaz.h"
+	"operaciones.h"
+
+1750444475 d:\el braian\cosas mias\estudio\tup\programacion\tp\dados\interfaz.h
+
+1750445339 source:d:\el braian\cosas mias\estudio\tup\programacion\tp\dados\interfaz.cpp
+	<iostream>
+	"interfaz.h"
+
+1750444498 d:\el braian\cosas mias\estudio\tup\programacion\tp\dados\juego.h
+
+1750444771 source:d:\el braian\cosas mias\estudio\tup\programacion\tp\dados\juego.cpp
+	<iostream>
+	"juego.h"
+	"interfaz.h"
+	"operaciones.h"
+	<ctime>
+	<cstdlib>
+
+1750442538 source:d:\el braian\cosas mias\estudio\tup\programacion\tp\dados\operaciones.cpp
+	<iostream>
+	"operaciones.h"
+
+1750442554 d:\el braian\cosas mias\estudio\tup\programacion\tp\dados\operaciones.h
+	<iostream>
+
+1752700077 source:c:\users\lautaro\onedrive\escritorio\dados2\interfaz.cpp
+	<iostream>
+	"interfaz.h"
+
+1752698680 c:\users\lautaro\onedrive\escritorio\dados2\interfaz.h
+
+1752883503 source:c:\users\lautaro\onedrive\escritorio\dados2\juego.cpp
+	<iostream>
+	"juego.h"
+	"interfaz.h"
+	"operaciones.h"
+	<ctime>
+	<cstdlib>
+
+1752879054 c:\users\lautaro\onedrive\escritorio\dados2\juego.h
+
+1752696564 c:\users\lautaro\onedrive\escritorio\dados2\operaciones.h
+	<iostream>
+
+1752700225 source:c:\users\lautaro\onedrive\escritorio\dados2\main.cpp
+	<iostream>
+	"juego.h"
+	"interfaz.h"
+	"operaciones.h"
+	<time.h>
+
+1752881601 source:c:\users\lautaro\onedrive\escritorio\dados2\operaciones.cpp
+	<iostream>
+	"operaciones.h"
+	"interfaz.h"
+
+1753098712 source:c:\users\lautaro\onedrive\escritorio\dados_version_final\interfaz.cpp
+	<iostream>
+	"interfaz.h"
+
+1753098712 c:\users\lautaro\onedrive\escritorio\dados_version_final\interfaz.h
+
+1753098712 source:c:\users\lautaro\onedrive\escritorio\dados_version_final\juego.cpp
+	<iostream>
+	"juego.h"
+	"interfaz.h"
+	"operaciones.h"
+	<ctime>
+	<cstdlib>
+
+1753098712 c:\users\lautaro\onedrive\escritorio\dados_version_final\juego.h
+
+1753452738 c:\users\lautaro\onedrive\escritorio\dados_version_final\operaciones.h
+	<iostream>
+
+1753453098 source:c:\users\lautaro\onedrive\escritorio\dados_version_final\main.cpp
+	<iostream>
+	"juego.h"
+	"interfaz.h"
+	"operaciones.h"
+	<time.h>
+
+1753453332 source:c:\users\lautaro\onedrive\escritorio\dados_version_final\operaciones.cpp
+	<iostream>
+	"operaciones.h"
+	"interfaz.h"
+	"operaciones.h"
+
+1753098712 source:c:\users\lautaro\onedrive\escritorio\dados_version_final (2)\dados_version_final\interfaz.cpp
+	<iostream>
+	"interfaz.h"
+
+1753098712 c:\users\lautaro\onedrive\escritorio\dados_version_final (2)\dados_version_final\interfaz.h
+
+1753098712 source:c:\users\lautaro\onedrive\escritorio\dados_version_final (2)\dados_version_final\juego.cpp
+	<iostream>
+	"juego.h"
+	"interfaz.h"
+	"operaciones.h"
+	<ctime>
+	<cstdlib>
+
+1753098712 c:\users\lautaro\onedrive\escritorio\dados_version_final (2)\dados_version_final\juego.h
+
+1753569445 c:\users\lautaro\onedrive\escritorio\dados_version_final (2)\dados_version_final\operaciones.h
+	<iostream>
+
+1753634201 source:c:\users\lautaro\onedrive\escritorio\dados_version_final (2)\dados_version_final\operaciones.cpp
+	<iostream>
+	"operaciones.h"
+	"interfaz.h"
+
+1753543304 source:c:\users\lautaro\onedrive\escritorio\dados_version_final (2)\dados_version_final\main.cpp
+	<iostream>
+	"juego.h"
+	"interfaz.h"
+	"operaciones.h"
+	<time.h>
+
+1753098712 source:c:\users\lautaro\onedrive\escritorio\dados_version_final (4)\dados_version_final (2)\dados_version_final\interfaz.cpp
+	<iostream>
+	"interfaz.h"
+
+1753098712 c:\users\lautaro\onedrive\escritorio\dados_version_final (4)\dados_version_final (2)\dados_version_final\interfaz.h
+
+1753098712 source:c:\users\lautaro\onedrive\escritorio\dados_version_final (4)\dados_version_final (2)\dados_version_final\juego.cpp
+	<iostream>
+	"juego.h"
+	"interfaz.h"
+	"operaciones.h"
+	<ctime>
+	<cstdlib>
+
+1753098712 c:\users\lautaro\onedrive\escritorio\dados_version_final (4)\dados_version_final (2)\dados_version_final\juego.h
+
+1753647468 c:\users\lautaro\onedrive\escritorio\dados_version_final (4)\dados_version_final (2)\dados_version_final\operaciones.h
+	<iostream>
+
+1753647565 source:c:\users\lautaro\onedrive\escritorio\dados_version_final (4)\dados_version_final (2)\dados_version_final\operaciones.cpp
+	<iostream>
+	"operaciones.h"
+	"interfaz.h"
+	<fstream>
+
+1753648196 source:c:\users\lautaro\onedrive\escritorio\dados_version_final (4)\dados_version_final (2)\dados_version_final\main.cpp
+	<iostream>
+	"juego.h"
+	"interfaz.h"
+	"operaciones.h"
+	<time.h>
+
